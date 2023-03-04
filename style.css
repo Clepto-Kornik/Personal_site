@@ -1,0 +1,134 @@
+a {
+    color: #464F41;
+    text-decoration: none;
+}
+
+a:hover {
+   color: #F7F7E8;
+}
+
+.about {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    background-color: #F7F7E8;
+    font-size: 1.5em;
+    color: #5D534A;
+}
+
+.bottom-container {
+    background-color: #889E81;
+    padding: 40px 0 20px;
+}
+
+.btn {
+    margin-top: 100px;
+    background: #C7CFB7;
+    background-image: -webkit-linear-gradient(top, #C7CFB7, #889E81);
+    background-image: -moz-linear-gradient(top, #C7CFB7, #889E81);
+    background-image: -ms-linear-gradient(top, #C7CFB7, #889E81);
+    background-image: -o-linear-gradient(top, #C7CFB7, #889E81);
+    background-image: linear-gradient(to bottom, #C7CFB7, #889E81);
+    -webkit-border-radius: 60;
+    -moz-border-radius: 60;
+    border-radius: 60px;
+    font-family: 'Roboto Slab', serif;
+    color: #F7F7E8;
+    font-size: 20px;
+    padding: 12px 20px 12px 20px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #C7CFB7;
+    background-image: -webkit-linear-gradient(top, #C7CFB7, #C7CFB7);
+    background-image: -moz-linear-gradient(top, #C7CFB7, #C7CFB7);
+    background-image: -ms-linear-gradient(top, #C7CFB7, #C7CFB7);
+    background-image: -o-linear-gradient(top, #C7CFB7, #C7CFB7);
+    background-image: linear-gradient(to bottom, #C7CFB7, #C7CFB7);
+    text-decoration: none;
+}
+
+.burner {
+    width: 20%;
+}
+
+.copyright {
+    color: #F7F7E8;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 6.25rem;
+    line-height: 2;
+    margin: 30px auto 0 auto;
+    font-family: 'Satisfy', cursive;
+    color: #889E81;
+}
+
+h2 {
+    font-family: 'Tilt Warp', cursive;
+    color: #464F41;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Tilt Warp', cursive;
+    color: #464F41;
+}
+
+hr {
+    border: dotted #C5D8A4 14px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.knitting {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.plant-top {
+    position: absolute;
+    right: 300px;
+    top: 0px;
+    width: 18%;
+
+}
+
+.top-container {
+    position: relative;
+    padding-top: 200px;
+}
+
+p {
+    line-height: 2;
+}
+
+.plant-bottom {
+    position: absolute;
+    left: 300px;
+    top: 0px;
+    width: 15%;
+}
+
+.program {
+    width: 30%;
+    float: left;
+    padding-right: 30px;
+}
